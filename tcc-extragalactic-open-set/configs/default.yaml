@@ -1,0 +1,8 @@
+survey: legacy
+bands: grz
+size: 64
+rate_limit_rps: 2.0
+max_workers: 4
+timeout_s: 20
+retries: 3
+backoff_s: 1.0
